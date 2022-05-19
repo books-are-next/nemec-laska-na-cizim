@@ -1,9 +1,10 @@
 ---
 title: ''
+hiddenTitle: true
 contentType: prose
 ---
 
-I bílý anděl má černý stín  
+_I bílý anděl má černý stín  
 Pojďme ho, lásko, oškubat do peřin  
 Těma se přikryjem,  
 až tady nebudem,  
@@ -12,6 +13,6 @@ na cizím hrobě
 až počneme sobě  
 (pod andělskou peřinou)  
 Jeníčka s Mařenou,  
-v mý troubě pečený nebožátka
+v mý troubě pečený nebožátka_
 
 > Zuzana Trojanová, Hřbitovní tráva

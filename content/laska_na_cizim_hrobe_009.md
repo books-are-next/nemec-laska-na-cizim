@@ -3,8 +3,8 @@ title: Lůno
 contentType: prose
 ---
 
-Dynamit urovná každičkej spor  
-Žena je od Ráje podivnej tvor
+_Dynamit urovná každičkej spor  
+Žena je od Ráje podivnej tvor_
 
 Olympic
 
