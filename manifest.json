@@ -1,0 +1,193 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Láska na cizím hrobě",
+  "author": "Ludvík Němec",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "nemec-laska-na-cizim-hrobe-4e68c28",
+  "revision": "4e68c28",
+  "readingOrder": [
+    "promo.html",
+    "laska_na_cizim_hrobe_005.html",
+    "laska_na_cizim_hrobe_006.html",
+    "laska_na_cizim_hrobe_007.html",
+    "laska_na_cizim_hrobe_008.html",
+    "laska_na_cizim_hrobe_009.html",
+    "laska_na_cizim_hrobe_010.html",
+    "colophon.html"
+  ],
+  "generatedAt": {
+    "date": "Thu May 19 2022 14:22:04 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652970124692
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "laska_na_cizim_hrobe_005.html",
+      "toc": []
+    },
+    {
+      "title": "Láska na cizím hrobě",
+      "file": "laska_na_cizim_hrobe_005.html",
+      "words": 45,
+      "chars": 254,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "laska_na_cizim_hrobe_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nějaké nebe",
+      "file": "laska_na_cizim_hrobe_006.html",
+      "words": 10932,
+      "chars": 63633,
+      "ideas": 355,
+      "role": "chapter",
+      "order": 2,
+      "prev": "laska_na_cizim_hrobe_005.html",
+      "next": "laska_na_cizim_hrobe_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nějaké nebe",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dírka",
+      "file": "laska_na_cizim_hrobe_007.html",
+      "words": 9680,
+      "chars": 56387,
+      "ideas": 292,
+      "role": "chapter",
+      "order": 3,
+      "prev": "laska_na_cizim_hrobe_006.html",
+      "next": "laska_na_cizim_hrobe_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dírka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Rezonance",
+      "file": "laska_na_cizim_hrobe_008.html",
+      "words": 10612,
+      "chars": 62661,
+      "ideas": 312,
+      "role": "chapter",
+      "order": 4,
+      "prev": "laska_na_cizim_hrobe_007.html",
+      "next": "laska_na_cizim_hrobe_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Rezonance",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lůno",
+      "file": "laska_na_cizim_hrobe_009.html",
+      "words": 10904,
+      "chars": 61726,
+      "ideas": 485,
+      "role": "chapter",
+      "order": 5,
+      "prev": "laska_na_cizim_hrobe_008.html",
+      "next": "laska_na_cizim_hrobe_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Lůno",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vybřežení",
+      "file": "laska_na_cizim_hrobe_010.html",
+      "words": 10471,
+      "chars": 59343,
+      "ideas": 490,
+      "role": "chapter",
+      "order": 6,
+      "prev": "laska_na_cizim_hrobe_009.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vybřežení",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "colophon.html",
+      "words": 123,
+      "chars": 761,
+      "ideas": 15,
+      "role": "colophon",
+      "order": null,
+      "prev": "laska_na_cizim_hrobe_010.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 52775,
+      "chars": 304808,
+      "ideas": 1964
+    },
+    "chapters": {
+      "words": 52644,
+      "chars": 304004,
+      "ideas": 1945
+    }
+  }
+}

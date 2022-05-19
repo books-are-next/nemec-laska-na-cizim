@@ -3,7 +3,7 @@ title: Dírka
 contentType: prose
 ---
 
-Zatracená dírka! Co já si fčil počnu? Já mám klíč zubem navrch a zámek nemůžu přece obracet! Počkat! Co kdybych obrátil ten klíč? — A hle, dvéře se otevřely!
+_Zatracená dírka! Co já si fčil počnu? Já mám klíč zubem navrch a zámek nemůžu přece obracet! Počkat! Co kdybych obrátil ten klíč? — A hle, dvéře se otevřely!_
 
 Rudolf Těsnohlídek, Příhody lišky Bystroušky
 
@@ -587,4 +587,4 @@ b) Už se mi ozvala, Mirku. Ta dívka se žlutými lístečky. Vlastně hned čt
 
 * * *
 
-[1](./resources/undefined) Miluji déšť. Miluji milování v dešti. Pozn. red.
+[1](./resources/undefined) Miluji déšť. Miluji milování v dešti. _Pozn. red._
