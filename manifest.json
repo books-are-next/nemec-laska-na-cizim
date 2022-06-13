@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "nemec-laska-na-cizim-hrobe-1d9e833",
-  "revision": "1d9e833",
+  "identifier": "nemec-laska-na-cizim-hrobe-7995898",
+  "revision": "7995898",
   "readingOrder": [
     "promo.html",
     "laska_na_cizim_hrobe_005.html",
@@ -21,8 +21,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Sat Jun 11 2022 12:07:16 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654949236859
+    "date": "Mon Jun 13 2022 21:56:11 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655157371064
   },
   "documents": [
     {
@@ -160,9 +160,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 90,
-      "chars": 589,
-      "ideas": 7,
+      "words": 123,
+      "chars": 761,
+      "ideas": 15,
       "role": "colophon",
       "order": null,
       "prev": "laska_na_cizim_hrobe_010.html",
@@ -180,9 +180,9 @@
   ],
   "totals": {
     "all": {
-      "words": 52742,
-      "chars": 304636,
-      "ideas": 1956
+      "words": 52775,
+      "chars": 304808,
+      "ideas": 1964
     },
     "chapters": {
       "words": 52644,
