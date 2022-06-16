@@ -25,9 +25,6 @@ readingOrder:
 tocBase:
   - id: section-1
     children:
-      - link: laska_na_cizim_hrobe_005.html
-        title: I bílý anděl má ...
-        hiddenTitle: true
       - link: laska_na_cizim_hrobe_006.html
         title: Nějaké nebe
         hiddenTitle: false
