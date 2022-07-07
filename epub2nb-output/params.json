@@ -66,7 +66,7 @@
             "filename": "laska_na_cizim_hrobe_003.md",
             "xhtml": "laska_na_cizim_hrobe_003.xhtml",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -78,7 +78,7 @@
             "filename": "laska_na_cizim_hrobe_004.md",
             "xhtml": "laska_na_cizim_hrobe_004.xhtml",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -168,7 +168,7 @@
             "filename": "laska_na_cizim_hrobe_011.md",
             "xhtml": "laska_na_cizim_hrobe_011.xhtml",
             "id": 10,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -340,6 +340,6 @@
       "user": "books-are-next",
       "repo": "nemec-laska-na-cizim"
     },
-    "generatedAt": 1655979170341
+    "generatedAt": 1657182217942
   }
 }

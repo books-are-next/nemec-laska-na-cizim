@@ -21,7 +21,7 @@ readingOrder:
   - laska_na_cizim_hrobe_008.html
   - laska_na_cizim_hrobe_009.html
   - laska_na_cizim_hrobe_010.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
