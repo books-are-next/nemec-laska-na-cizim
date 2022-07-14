@@ -26,7 +26,7 @@
       "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
       "figure": "MLP_obrazky\nMLP-obrazky",
       "centered": "",
-      "verse": "MLP-verse\nMLP-verse.+",
+      "verse": "MLP-verse\nMLP-verse.+\nMLP_prima_rec",
       "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP_citat\nMLP_text_-I- \nMLP_text_-I-_-0-12- \nMLP_dopis_bez1radku_-I-\nMLP_verse_-I-_-0-12-\nMLP_znak_kurziva_9b\nMLP_scenicke_poznamky",
       "strong": "MLP-tiraz-autor-a-nazev\nMLP_tiraz_autor_a_nazev\nMLP-licence-paragraf\nMLP_znak_tucne_11b",
       "remove": "",
@@ -341,6 +341,6 @@
       "user": "books-are-next",
       "repo": "nemec-laska-na-cizim"
     },
-    "generatedAt": 1655271542966
+    "generatedAt": 1657187257613
   }
 }
