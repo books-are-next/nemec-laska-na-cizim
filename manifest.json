@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "nemec-laska-na-cizim-hrobe-03c4930",
-  "revision": "03c4930",
+  "identifier": "nemec-laska-na-cizim-hrobe-aac6565",
+  "revision": "aac6565",
   "readingOrder": [
     "promo.html",
     "laska_na_cizim_hrobe_005.html",
@@ -21,8 +21,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 21 2022 14:29:59 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1658413799437
+    "date": "Thu Sep 29 2022 21:29:32 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664486972098
   },
   "documents": [
     {
@@ -81,7 +81,7 @@
       "title": "Dírka",
       "file": "laska_na_cizim_hrobe_007.html",
       "words": 9680,
-      "chars": 56387,
+      "chars": 56388,
       "ideas": 292,
       "role": "chapter",
       "order": 3,
@@ -101,7 +101,7 @@
       "title": "Rezonance",
       "file": "laska_na_cizim_hrobe_008.html",
       "words": 10612,
-      "chars": 62661,
+      "chars": 62663,
       "ideas": 312,
       "role": "chapter",
       "order": 4,
@@ -181,12 +181,12 @@
   "totals": {
     "all": {
       "words": 52912,
-      "chars": 305676,
+      "chars": 305679,
       "ideas": 1979
     },
     "chapters": {
       "words": 52644,
-      "chars": 304004,
+      "chars": 304007,
       "ideas": 1945
     }
   }
