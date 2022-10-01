@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "nemec-laska-na-cizim-hrobe-aac6565",
-  "revision": "aac6565",
+  "identifier": "nemec-laska-na-cizim-hrobe-a0b1200",
+  "revision": "a0b1200",
   "readingOrder": [
     "promo.html",
     "laska_na_cizim_hrobe_005.html",
@@ -21,8 +21,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Sep 29 2022 21:29:32 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664486972098
+    "date": "Sat Oct 01 2022 16:00:08 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664640008024
   },
   "documents": [
     {
