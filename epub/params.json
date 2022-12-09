@@ -1,4 +1,5 @@
 {
+  "extractionComplete": true,
   "params": {
     "metadata": {
       "languageCode": "cs",
@@ -341,6 +342,6 @@
       "user": "books-are-next",
       "repo": "nemec-laska-na-cizim"
     },
-    "generatedAt": 1657791419617
+    "generatedAt": 1666351191042
   }
 }
